@@ -80,9 +80,12 @@ div div a p {
 
 .footer-container {
     width: 100%;
-    height: max-content;
-    margin: 10% 0 0 0;
+    height: 10em;
+    position: relative;
+    top: 1em;
+    bottom: 0;
     background-color: #30E3CA;
+
 }
 
 footer div div ul a img {
